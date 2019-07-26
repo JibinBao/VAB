@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # kubeasz - Ansible Spirit Zone In Kubernetes
 
 `kubeasz`致力于提供快速部署高可用`k8s`集群的工具, 并且也努力成为`k8s`实践、使用的参考书；基于二进制方式部署和利用`ansible-playbook`实现自动化：即提供一键安装脚本, 也可以分步执行安装各个组件, 同时讲解每一步主要参数配置和注意事项。
@@ -103,8 +104,13 @@
 
 Copyright 2017 gjmzj (jmgaozz@163.com) Apache License 2.0, 详情见 [LICENSE](docs/mixes/LICENSE) 文件。
 =======
+=======
+>>>>>>> 53dfdbb4e1f8b5c083287ab4fca256fab9cdc731
 VAB
 ===
 //ZHOU FENG
 VoiceAddreBook
+<<<<<<< HEAD
 >>>>>>> Initial commit
+=======
+>>>>>>> 53dfdbb4e1f8b5c083287ab4fca256fab9cdc731

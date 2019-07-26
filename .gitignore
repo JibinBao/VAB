@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 down/*
 !down/download.sh
 !down/offline_images
@@ -25,6 +26,8 @@ roles/cluster-backup/files/*
 # cluster backups
 .cluster/
 =======
+=======
+>>>>>>> 53dfdbb4e1f8b5c083287ab4fca256fab9cdc731
 # built application files
 *.apk
 *.ap_
@@ -54,4 +57,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+<<<<<<< HEAD
 >>>>>>> Initial commit
+=======
+>>>>>>> 53dfdbb4e1f8b5c083287ab4fca256fab9cdc731
